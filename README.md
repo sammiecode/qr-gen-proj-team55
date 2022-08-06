@@ -36,6 +36,9 @@ Do not merge your pull request yourself. Wait for review and merging.
 To add install all requirement pip install -r requirements.txt 
 
 # Designers
+Samuel falola
+https://github.com/sammiecode
+
 Itepu precious eden
 github.com/preciousitepu
 
